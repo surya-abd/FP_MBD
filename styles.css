@@ -1,0 +1,44 @@
+body {
+    background-color: #363062 !important;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: rgb(255, 255, 255) !important;
+}
+
+h1 {
+    margin: 100px 0 50px 0;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 75px;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+button {
+    background-color: #4D4C7D;
+    color: rgb(255, 255, 255);
+    font-family: 'Merriweather Sans', sans-serif;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    margin: 20px auto;
+}
+
+button:hover {
+    background-color: #827397; 
+}
+
+table {
+    width: 100%;
+}
